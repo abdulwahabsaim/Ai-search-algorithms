@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 14 01:25:31 2025
-
-@author: shabi
-"""
-
 tree = {
         '5' : ['3','7'],
         '3' : ['2','4'],
