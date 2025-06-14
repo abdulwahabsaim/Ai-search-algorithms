@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 14 02:30:55 2025
-
-@author: shabi
-"""
-
 import heapq
 graph = {
     'A': ['B', 'C'],
