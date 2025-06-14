@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun 14 02:29:50 2025
-
-@author: shabi
-"""
-
 import heapq
 tree = {
     'A': ['B', 'C'],
